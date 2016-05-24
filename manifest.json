@@ -1,5 +1,5 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 2.1,
 
   "name": "NoIndex,NoFollow Meta Tag Checker",
   "description": "https://github.com/richard-parnaby-king/Meta-Checker",
